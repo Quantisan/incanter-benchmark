@@ -14,7 +14,7 @@
      [~name
       (fn [size#]
         (let [m# (rand-mat size#)]
-          (double (first (:mean (b/quick-bench (t# m# size#)))))))]))
+          (double (first (:mean (b/quick-benchmark (t# m# size#)))))))]))
 
 (defn def-suite [& tests]
   (reduce (fn [ac [name f]]
