@@ -2,9 +2,9 @@
 
 Benchmark incanter
 
-##
+## Result
 
-![benchmark result](http://www.quantisan.com/static/images/2012/incanter_benchmark_blas.png)
+![benchmark result](https://raw.github.com/Quantisan/incanter-benchmark/master/data/incanter_benchmark_blas.png)
 
 ## Usage
 
