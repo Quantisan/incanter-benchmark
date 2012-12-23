@@ -2,6 +2,10 @@
 
 Benchmark incanter
 
+##
+
+![benchmark result](http://www.quantisan.com/static/images/2012/incanter_benchmark_blas.png)
+
 ## Usage
 
 With standard library
