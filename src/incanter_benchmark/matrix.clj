@@ -56,6 +56,10 @@
                                       (do (mmult m m) :ok))
 
                                     (benchmark-test
+                                      :matrix-element-pow
+                                      (do (pow m m) :ok))
+
+                                    (benchmark-test
                                       :solve
                                       (do (solve m) :ok))
 
